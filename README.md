@@ -13,4 +13,5 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+The Linear transition in the footer is not noticable enough and I would've selected a more drastic transition
+The image in the first page overlaps the wording in certain views
