@@ -5,6 +5,7 @@
   position: relative;
   display: flex;
   flex-direction: column;
+  z-index: 1;
 }
 
 .header__title {
@@ -22,6 +23,9 @@
   font-family: "Noto Serif", "Times New Roman", serif;
   font-style: italic;
   color: #3f96f3;
+  font-weight: normal;
+  font-size: 60px;
+  line-height: 72px;
 }
 
 .header__description {
@@ -39,6 +43,7 @@
   right: 5px;
   width: 646px;
   height: 568px;
+  z-index: -1;
 }
 
 .header__footer {
